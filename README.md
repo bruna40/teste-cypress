@@ -20,3 +20,6 @@ cypress/e2e: onde está as pastas dos testes
 cypress/support/commands: onde tem comandos customizados dos testes.
 Link falando sobre os comandos customizados: https://learn.cypress.io/testing-your-first-application/how-to-test-forms-and-custom-cypress-commands
 
+
+Os teste em Cypress foram desenvolvidos com base nas aulas da Alura. Os conceitos, técnicas e tecnologias utilizados no projeto foram aprendidos durante o processo de formação, que conta com aulas teóricas e práticas.
+
