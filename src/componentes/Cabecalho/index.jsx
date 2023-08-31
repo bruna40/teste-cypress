@@ -50,7 +50,7 @@ export default function Cabecalho({ path }) {
   return (
     <header className={estilos.cabecalho}>
       <div className={estilos.container}>
-        <Logo />
+        <Logo data-test='logo' />
         {!usuarioEstaLogado && (
           <>
             <div className={estilos.botoes}>

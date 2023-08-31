@@ -8,7 +8,7 @@ import youtube from 'assets/youtube.svg';
 
 export default function Rodape() {
   return (
-    <footer className={estilos.container}>
+    <footer className={estilos.container} data-test='rodape'>
       <div className={estilos.caixa__rodape}>
         <div className={estilos.coluna__infos}>
           <h3>Serviços</h3>
